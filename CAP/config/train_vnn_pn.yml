@@ -1,0 +1,41 @@
+exp:
+    name: 'vnn'
+    use_ckpt: False
+    checkpoint_dir: ''
+    num_workers: 16
+    batch_size: 96
+    num_epochs: 100
+    log_dir: ''
+    log_dir_source: '/home/hanbing/paper_code/SUPE/log_dir_train_CHP/CCM+Ls'
+    category: ''
+    use_seg_model: False
+    segmodel_path: '/home/hanbing/paper_code/Point-M2AE-main/segmentation/Point_M2AE_SEG.py'
+
+model:
+    pc_feat_dim: 512
+    num_heads: 4
+    num_blocks: 1
+    # 'vn_dgcnn'  , 'vn_dgcnn_cap'
+    encoder: 'vn_dgcnn_cap'
+
+    # loss
+    use_part: False
+    symmetry_loss: 'yes'
+    upright_loss: 'yes'
+    pose_predictor_rot: 'original'
+    pose_predictor_trans: ''
+
+
+data:
+    root_dir: 'CAP/ShapeNetAtlasNetH5_1024'
+    num_pc_points: 1024
+
+    use_normals: False
+    num_category: 40
+    process_data: False
+
+optimizer:
+    lr: 1e-4
+    lr_decay: 0.01
+    weight_decay: 1e-6
+    lr_clip: 1e-5

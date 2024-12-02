@@ -1,0 +1,32 @@
+exp:
+    name: 'CCM+HCM_gtlu_assemblyencoder'
+    checkpoint_dir: ''
+    num_workers: 16
+    batch_size: 32
+    log_dir: '/home/hanbing/paper_code/SUPE/log_dir_eval_CHP'
+    use_ckpt: True
+
+model:
+    pc_feat_dim: 512
+    num_heads: 4
+    num_blocks: 1
+    # 'vn_dgcnn'  , 'vn_dgcnn+oriafter' ,'vn_dgcnn_assembly
+    encoder: 'vn_dgcnn_assembly'
+
+    # loss
+    use_part: False
+    symmetry_loss: 'yes'
+    upright_loss: 'yes'
+    pose_predictor_quat: 'original'
+    pose_predictor_rot: 'original'
+    pose_predictor_trans: ''
+
+
+#gpus: [0,1,2,3]
+
+data:
+    root_dir: '/home/hanbing/datasets/ShapeNetAtlasNetH5_1024'
+    num_pc_points: 1024
+    use_uniform_sample: True
+    use_normals: False
+    num_category: 40
