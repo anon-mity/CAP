@@ -29,11 +29,11 @@ python train.py
 
 ## Data generation
 <div style="text-align: center;">
-  <img src="./Cluster1.png" alt="Overview" width="500"/>
+  <img src="./Cluster1.png" alt="Cluster1" width="300"/>
 </div>
 
 <div style="text-align: center;">
-  <img src="./Cluster4.png" alt="Overview" width="800"/>
+  <img src="./Cluster4.png" alt="Cluster4" width="600"/>
 </div>
 
 ## License
