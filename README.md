@@ -27,6 +27,10 @@ cd script
 python train.py
 ```
 
+## Data generation
+![Overview](./img2.png)
+![Overview](./img2.png)
+
 ## License
 MIT License
 
