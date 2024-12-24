@@ -29,8 +29,8 @@ python train.py
 
 ## Data generation
 <div style="display: flex; justify-content: center;">
-  <img src="./Cluster1.png" alt="Overview" width="400" style="margin-right: 20px;"/>
-  <img src="./Cluster4.png" alt="Overview" width="800"/>
+  <img src="./Cluster1.png" alt="Overview" width="300" style="margin-right: 10px;"/>
+  <img src="./Cluster4.png" alt="Overview" width="600"/>
 </div>
 
 ## License
