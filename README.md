@@ -28,7 +28,7 @@ python train.py
 ```
 
 ## Data generation
-![Overview](./Cluster1.png)
+<img src="./Cluster1.png" alt="Data generation" width="400"/>
 
 
 ## License
