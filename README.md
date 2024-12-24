@@ -28,10 +28,12 @@ python train.py
 ```
 
 ## Data generation
-<div style="text-align: center;">
+1.Physics Simulator
+<div style="display: flex; justify-content: center; align-items: center;">
   <img src="./Cluster1.png" alt="Cluster1" width="300"/>
 </div>
 
+2.Cluster
 <div style="text-align: center;">
   <img src="./Cluster4.png" alt="Cluster4" width="600"/>
 </div>
