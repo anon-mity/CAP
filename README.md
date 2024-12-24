@@ -30,12 +30,12 @@ python train.py
 ## Data generation
 1.Physics Simulator
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="./Cluster1.png" alt="Cluster1" width="300"/>
+  <img src="./Cluster1.png" alt="Cluster1" width="400"/>
 </div>
 
 2.Cluster
 <div style="text-align: center;">
-  <img src="./Cluster4.png" alt="Cluster4" width="600"/>
+  <img src="./Cluster4.png" alt="Cluster4" width="700"/>
 </div>
 
 ## License
