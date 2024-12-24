@@ -3,12 +3,12 @@ We introduce Cap, a human-centric category-level point cloud canonicalization me
 ![CAP](./img1_.png)
 
 - [Project Page](https://anonymity15333.github.io/CAP.github.io/)
-- [Dataset Page (coming soon...)](https://anonymity15333.github.io/CAP.github.io/)
+- [Dataset Page](https://anonymity15333.github.io/CAP.github.io/)
   
 ## Overview
 ![Overview](./img2.png)
 
-## O
+## Usage
 
 ## License
 MIT License
