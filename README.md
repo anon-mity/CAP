@@ -9,7 +9,7 @@ We introduce Cap, a human-centric category-level point cloud canonicalization me
 ![Overview](./img2.png)
 
 ## Usage
-1.Download the ShapeNet dataset [here](https://anonymity15333.github.io/CAP.github.io/) (Follow the data splitting of [ConDor](https://github.com/brown-ivl/ConDor) [AtlasNet](https://anonymity15333.github.io/CAP.github.io/))
+1.Download the ShapeNet dataset [here](https://anonymity15333.github.io/CAP.github.io/) (Follow the data splitting of [ConDor](https://github.com/brown-ivl/ConDor) and [AtlasNet](https://anonymity15333.github.io/CAP.github.io/))
 ```python
 # Create dataset directory
 mkdir dataset
