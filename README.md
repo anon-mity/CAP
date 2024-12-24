@@ -28,8 +28,10 @@ python train.py
 ```
 
 ## Data generation
-<img src="./Cluster1.png" alt="Data generation" width="400"/>
-
+<div style="display: flex; justify-content: center;">
+  <img src="./Cluster1.png" alt="Overview" width="400" style="margin-right: 20px;"/>
+  <img src="./Cluster4.png" alt="Overview" width="800"/>
+</div>
 
 ## License
 MIT License
