@@ -3,7 +3,7 @@ We propose a category-level point cloud canonicalization method that learns a un
 
 - [Project Page](https://anon-mity.github.io/upright-facing/)
 - [Data](https://drive.google.com/file/d/1RXZEHc7ZD_LlStugoKE7jiPE7T2Xs_b5/view?usp=drive_link)
-- 
+ 
 ![](./img1.png)
 ## Overview
 ![Overview](./img2.png)
