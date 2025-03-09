@@ -1,10 +1,10 @@
 # Learning Upright and Forward-Facing Object Poses using Category-level Canonical Representations
 We propose a category-level point cloud canonicalization method that learns a unified canonical pose across different instances within the same category.  We further extend this canonical pose to maintain an upright and forward-facing state. Our method eliminates the need for manually crafted object pose labels and effectively handles shape variations within categories, producing more consistent canonicalized outputs. 
 
+- [Project Page](https://anon-mity.github.io/upright-facing/)
+- [Data](https://drive.google.com/file/d/1RXZEHc7ZD_LlStugoKE7jiPE7T2Xs_b5/view?usp=drive_link)
+- 
 ![](./img1.png)
-
-- [Project Page](https://anonymity15333.github.io/CAP.github.io/)
-  
 ## Overview
 ![Overview](./img2.png)
 
